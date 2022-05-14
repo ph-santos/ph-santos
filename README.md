@@ -3,7 +3,7 @@
 - 💻 Estudando HTML, CSS e JavaScript
 - 💬 Contate-me no email: contatophenriquesantos@gmail.com
   
-  ##
+  <br/>
   
   <div align="center">
   <a href="https://github.com/ph-santos">
