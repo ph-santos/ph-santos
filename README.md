@@ -2,6 +2,9 @@
 
 - 💻 Estudando HTML, CSS e JavaScript
 - 💬 Contate-me no email: contatophenriquesantos@gmail.com
+  
+  ##
+  
   <div align="center">
   <a href="https://github.com/ph-santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ph-santos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
