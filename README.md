@@ -2,6 +2,7 @@
 
 - 💻 Estudando HTML, CSS e JavaScript
 - 💬 Contate-me no email: contatophenriquesantos@gmail.com
+- 🔥 Gosto muito de tecnologia e das coisas que ela me proporciona.
   
   <br/>
   
