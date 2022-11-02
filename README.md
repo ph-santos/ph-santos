@@ -1,7 +1,7 @@
 ### Hi, I am Pedro Henrique 🤙
 
 - 🔥 I really like technology and the things it gives me.
-- 💻 Studying HTML, CSS, JavaScript e Node.Js.
+- 💻 Studying HTML, CSS, JavaScript and Node.Js.
 - 💬 Contact me by e-mail: contato.pedrocamara@gmail.com
   
   <br/>
